@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\Market.Business.deps.json
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\Market.Business.dll
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\ref\Market.Business.dll
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\Market.Business.pdb
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\Market.DAL.dll
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\Market.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.dll
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\ref\Market.Business.dll
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.pdb
+C:\Users\HASİBE\Source\Repos\Market\Market.Business\obj\Debug\net5.0\Market.Business.csproj.CopyComplete

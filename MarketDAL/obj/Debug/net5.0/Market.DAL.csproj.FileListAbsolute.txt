@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\Market.DAL.deps.json
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\Market.DAL.dll
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\ref\Market.DAL.dll
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\Market.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.dll
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\ref\Market.DAL.dll
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\Market.DAL.runtimeconfig.json
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\bin\Debug\net5.0\Market.DAL.runtimeconfig.dev.json
+C:\Users\HASİBE\Source\Repos\Market\MarketDAL\obj\Debug\net5.0\Market.DAL.genruntimeconfig.cache
